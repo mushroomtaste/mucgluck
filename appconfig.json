@@ -1,9 +1,9 @@
 {
     "appName": "Player spotter",
     "description": "Spots players on the minimap and warns the user",
-    "appUrl": "https://mucgluck.github.io/playerspotter",
-    "configUrl": "https://mucgluck.github.io/playerspotter/appconfig.json",
-    "iconUrl": "https://mucgluck.github.io/playerspotter/app_icon.png",
+    "appUrl": "https://github.com/mushroomtaste/playerspotter/raw/master/playerspotter",
+    "configUrl": "https://github.com/mushroomtaste/playerspotter/raw/master/appconfig.json",
+    "iconUrl": "https://github.com/mushroomtaste/playerspotter/raw/master/app_icon.png",
     "defaultWidth": 400,
     "defaultHeight": 200,
     "minWidth": 250,
