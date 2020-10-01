@@ -1,0 +1,14 @@
+{
+    "appName": "Player spotter",
+    "description": "Spots players on the minimap and warns the user",
+    "appUrl": "C:\Users\Russell\Desktop\runescape\player spotter",
+    "configUrl": "C:\Users\Russell\Desktop\runescape\player spotterappconfig.json",
+    "iconUrl": "C:\Users\Russell\Desktop\runescape\player spotterapp_icon.png",
+    "defaultWidth": 400,
+    "defaultHeight": 200,
+    "minWidth": 250,
+    "minHeight": 100,
+    "requestHandlers": [],
+    "activators": [],
+    "permissions": "overlay,pixel,gamestate"
+}
